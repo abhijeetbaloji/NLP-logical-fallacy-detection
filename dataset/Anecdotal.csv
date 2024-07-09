@@ -1,0 +1,508 @@
+Statement,Type of Fallacy
+"I know a guy who never exercises and he's perfectly healthy, so there's no need to work out.",Anecdotal
+"My sister always goes to bed with wet hair and hasn't caught a cold, so drying hair before bed must be unnecessary.",Anecdotal
+"I know someone who never wears warm clothing in cold climates and hasn't gotten sick, so warm clothing must be unnecessary.",Anecdotal
+"My neighbor doesn't wear a helmet when riding a motorcycle and hasn't been injured, so helmets must be unnecessary.",Anecdotal
+"My uncle never wears a life jacket while kayaking and hasn't drowned, so life jackets must be unnecessary.",Anecdotal
+"My friend never wears sunscreen at the beach and hasn't gotten sunburned, so sunscreen must be unnecessary.",Anecdotal
+"I've never worn a seatbelt in a taxi and haven't been injured, so seatbelts must not be necessary for taxi rides.",Anecdotal
+"My friend always swims immediately after eating and hasn't had cramps, so waiting to swim after eating must be unnecessary.",Anecdotal
+"My friend never wears a life jacket while paddleboarding and hasn't drowned, so life jackets must be unnecessary for paddleboarding.",Anecdotal
+"My neighbor never wears a bicycle helmet and hasn't had head injuries, so helmets must be unnecessary for cycling.",Anecdotal
+"My sibling never wears a helmet while skateboarding and hasn't had head injuries, so helmets must be unnecessary for skateboarding.",Anecdotal
+"My colleague never wears safety glasses in the lab and hasn't had any accidents, so eye protection must be unnecessary.",Anecdotal
+"I know someone who never exercises and is still healthy, so exercise must not be important for health.",Anecdotal
+"My colleague never wears safety goggles in chemistry labs and hasn't had eye injuries, so goggles must be unnecessary.",Anecdotal
+"My coworker never wears a helmet while biking and hasn't had any head injuries, so helmets must be unnecessary.",Anecdotal
+"My coworker never wears sunscreen while playing golf and hasn't gotten sunburned, so sunscreen must be unnecessary for golf.",Anecdotal
+"My friend never wears gloves when handling hot objects and hasn't been burned, so gloves must be unnecessary.",Anecdotal
+"My friend got into a car accident because of icy roads, so driving in winter is always dangerous.",Anecdotal
+"I know someone who never wears a raincoat in the rain and doesn't get wet, so raincoats must not be effective.",Anecdotal
+"My colleague never wears a raincoat in hailstorms and hasn't gotten sick, so raincoats must be unnecessary for hailstorms.",Anecdotal
+"My brother doesn't wash his hands regularly and hasn't gotten sick, so handwashing must not be that important.",Anecdotal
+"I know someone who never wears a helmet while rock climbing and hasn't had head injuries, so helmets must be unnecessary for rock climbing.",Anecdotal
+"My colleague never wears gloves when handling chemicals and hasn't been harmed, so gloves must be unnecessary.",Anecdotal
+"I know someone who skydives without a parachute and survives by landing in water, so parachutes are overrated.",Anecdotal
+"My neighbor never wears gloves while gardening and hasn't been harmed, so gloves must be unnecessary.",Anecdotal
+"I know someone who never wears a seatbelt in a ride-share and hasn't been injured, so seatbelts must not be necessary for ride-shares.",Anecdotal
+"My sibling never uses insect repellent while camping and hasn't been bitten, so insect repellent must be unnecessary.",Anecdotal
+"My uncle never wears a bike helmet and hasn't had head injuries, so bike helmets must be unnecessary.",Anecdotal
+"My neighbor never wears gloves when handling hot objects and hasn't been burned, so gloves must be unnecessary.",Anecdotal
+"My coworker never wears safety glasses in the workshop and hasn't had any eye injuries, so eye protection must be unnecessary.",Anecdotal
+"My neighbor never wears a life jacket while boating and hasn't drowned, so life jackets must be unnecessary.",Anecdotal
+"My sister never wears a hard hat on construction sites and hasn't been injured, so hard hats must be unnecessary.",Anecdotal
+"My sister never wears gloves while cleaning and hasn't been harmed, so gloves must be unnecessary for cleaning.",Anecdotal
+"My coworker never wears sunscreen while at the pool and hasn't gotten sunburned, so sunscreen must be unnecessary.",Anecdotal
+"My colleague drinks heavily but doesn't have liver problems, so alcohol must not be harmful.",Anecdotal
+"My aunt never wears a seatbelt in the car and hasn't been injured, so seatbelts must not be important.",Anecdotal
+"My friend ate junk food all the time and lived a long life, so junk food isn't bad for health.",Anecdotal
+"I've never been bitten by a mosquito and haven't contracted any diseases, so mosquito repellent must be unnecessary.",Anecdotal
+"My friend used a cheap skincare product and it worked well, so expensive skincare products are unnecessary.",Anecdotal
+"My friend never wears a helmet while skateboarding and hasn't had head injuries, so helmets must be unnecessary for skateboarding.",Anecdotal
+"My friend never wears a helmet while skiing and hasn't had head injuries, so helmets must be unnecessary for skiing.",Anecdotal
+"My friend got into a car accident because of speeding but wasn't injured, so speeding isn't dangerous.",Anecdotal
+"My friend never wears gloves while handling raw meat and hasn't been sick, so gloves must be unnecessary for handling meat.",Anecdotal
+"My cousin never wears a life vest while boating and hasn't drowned, so life vests must be unnecessary for boating.",Anecdotal
+"I've read about someone who never wears a life vest while kayaking and hasn't drowned, so life vests must be unnecessary.",Anecdotal
+"My cousin never wears a raincoat in heavy rain and hasn't gotten sick, so raincoats must be unnecessary.",Anecdotal
+"My coworker never wears sunscreen while playing tennis and hasn't gotten sunburned, so sunscreen must be unnecessary for tennis.",Anecdotal
+"My neighbor never wears gloves while handling hot dishes and hasn't been burned, so gloves must not be needed.",Anecdotal
+"I drank coffee every day of my pregnancy and my baby is healthy, so caffeine during pregnancy is safe.",Anecdotal
+"My cousin never wears a helmet while riding a skateboard and hasn't had head injuries, so helmets must be unnecessary for skateboarding.",Anecdotal
+"My friend always eats street food in foreign countries and hasn't gotten sick, so street food must be safe.",Anecdotal
+"My aunt eats street food all the time and hasn't gotten food poisoning, so street food must be safe.",Anecdotal
+"My neighbor never wears sunscreen while playing beach volleyball and hasn't gotten sunburned, so sunscreen must be unnecessary for beach volleyball.",Anecdotal
+"My friend never uses sunscreen while playing soccer and hasn't gotten sunburned, so sunscreen must be unnecessary for soccer.",Anecdotal
+"I know someone who never washes their hands after using the bathroom and hasn't gotten sick, so handwashing must be unnecessary.",Anecdotal
+"My aunt never wears a seatbelt in the car and hasn't been injured, so seatbelts must be unnecessary.",Anecdotal
+"My neighbor never wears a helmet while skiing and hasn't had head injuries, so helmets must be unnecessary for skiing.",Anecdotal
+"My neighbor never wears a helmet while riding a scooter and hasn't had head injuries, so helmets must be unnecessary for scooters.",Anecdotal
+"My friend's child never received vaccinations and hasn't contracted any diseases, so vaccines must be unnecessary.",Anecdotal
+"My sister never wears gloves when dyeing her hair and hasn't had any adverse reactions, so gloves must be unnecessary.",Anecdotal
+"My colleague never wears a hard hat on construction sites and hasn't been injured, so hard hats must be unnecessary.",Anecdotal
+"My colleague never wears safety goggles while cycling and hasn't had eye injuries, so goggles must be unnecessary for cycling.",Anecdotal
+"My coworker never wears a raincoat in drizzle and hasn't gotten sick, so raincoats must be unnecessary for drizzle.",Anecdotal
+"My friend always eats junk food and hasn't gained weight, so dieting must be unnecessary.",Anecdotal
+"My friend always leaves the tap running while brushing their teeth and hasn't run out of water, so conserving water must be unnecessary.",Anecdotal
+"My cousin never wears sunscreen and hasn't gotten sunburned, so sunscreen must be unnecessary.",Anecdotal
+"I know someone who never wears gloves while cooking and hasn't been burned, so gloves must be unnecessary in the kitchen.",Anecdotal
+"My neighbor never wears gloves while handling hot dishes and hasn't been burned, so gloves must be unnecessary.",Anecdotal
+"My friend never wears a life jacket while canoeing and hasn't drowned, so life jackets must be unnecessary for canoeing.",Anecdotal
+"My friend never wears a helmet while riding a motorcycle and hasn't had head injuries, so helmets must be unnecessary for motorcycles.",Anecdotal
+"I know someone who never wears gloves while using cleaning products and hasn't been harmed, so gloves must be unnecessary.",Anecdotal
+"My cousin never wears a mouthguard while playing sports and hasn't had dental injuries, so mouthguards must be unnecessary.",Anecdotal
+"My coworker ate expired food and didn't get sick, so expiration dates are just suggestions.",Anecdotal
+"My friend texts while driving all the time and hasn't had an accident, so texting while driving must be safe.",Anecdotal
+"I know someone who never wears a seatbelt in the backseat and hasn't been injured, so seatbelts must not be necessary in the back.",Anecdotal
+"I know someone who never wears sunscreen and hasn't gotten skin cancer, so sunscreen must be unnecessary.",Anecdotal
+"My friend never wears a mask in polluted areas and hasn't had any respiratory issues, so masks must not be necessary.",Anecdotal
+"My friend always eats rare meat and hasn't gotten food poisoning, so cooking meat thoroughly must not be necessary.",Anecdotal
+"My neighbor never uses sunscreen and doesn't get sunburned, so sunscreen must not be necessary.",Anecdotal
+"My coworker never wears safety goggles while using power tools and hasn't had eye injuries, so goggles must be unnecessary.",Anecdotal
+"I read about a person who drank alcohol every day and lived to be 100, so alcohol must have health benefits.",Anecdotal
+"My cousin never wears safety goggles while working with power tools and hasn't had any eye injuries, so goggles must be unnecessary.",Anecdotal
+"I know someone who never wears gloves while handling raw meat and hasn't gotten sick, so gloves must be unnecessary.",Anecdotal
+"My friend always eats leftovers past their expiration date and hasn't gotten sick, so expiration dates must be irrelevant.",Anecdotal
+"My aunt smoked throughout her pregnancy and her child was healthy, so smoking during pregnancy must not harm the baby.",Anecdotal
+"My colleague never wears sunscreen while playing beach volleyball and hasn't gotten sunburned, so sunscreen must be unnecessary for beach volleyball.",Anecdotal
+"My friend never uses a handkerchief when sneezing and hasn't caught a cold, so handkerchiefs must be unnecessary.",Anecdotal
+"My sister never wears gloves while gardening and hasn't been harmed, so gloves must be unnecessary for gardening.",Anecdotal
+"My sister never washes her fruits and vegetables and hasn't gotten sick, so washing produce must be unnecessary.",Anecdotal
+"My friend ate spoiled food and didn't get sick, so food expiration dates are just a suggestion.",Anecdotal
+"My neighbor never wears a raincoat in heavy rain and hasn't gotten sick, so raincoats must be unnecessary.",Anecdotal
+"I know someone who never wears a seatbelt and walked away from a crash unharmed, so seatbelts must not be necessary.",Anecdotal
+"My aunt smoked during her pregnancy and her baby turned out fine, so smoking while pregnant isn't harmful.",Anecdotal
+"I know someone who never wears gloves while cleaning and hasn't been harmed, so gloves must be unnecessary for cleaning.",Anecdotal
+"My coworker never wears gloves while handling raw meat and hasn't gotten sick, so gloves must be unnecessary.",Anecdotal
+"My aunt never wears gloves while handling pets and hasn't been bitten, so gloves must be unnecessary.",Anecdotal
+"My neighbor leaves their doors unlocked at night and hasn't been robbed, so home security is unnecessary.",Anecdotal
+"My uncle never wears a raincoat in the rain and he's never gotten sick, so raincoats must not be necessary.",Anecdotal
+"My friend never wears gloves while handling chemicals and hasn't had any issues, so gloves must be unnecessary.",Anecdotal
+"My friend never wears a seatbelt and hasn't been injured in a car accident, so seatbelts must be unnecessary.",Anecdotal
+"My coworker never wears safety goggles in the lab and hasn't had any accidents, so goggles must be unnecessary.",Anecdotal
+"My grandmother lived through a war without any security measures and was never harmed, so security measures must not be important.",Anecdotal
+"My cousin never wears gloves when handling hot objects and hasn't been burned, so gloves must be unnecessary.",Anecdotal
+"My aunt never wears a seatbelt on short drives and hasn't been hurt, so seatbelts must not be necessary for short trips.",Anecdotal
+"I never wear sunscreen and I've never had skin cancer, so sunscreen is just a waste of money.",Anecdotal
+"My grandfather never wears a hat in the snow and hasn't gotten frostbite, so hats must be unnecessary for snowy conditions.",Anecdotal
+"My colleague never wears sunscreen and hasn't gotten sunburned, so sunscreen must be unnecessary.",Anecdotal
+"I know someone who never wears a seatbelt while driving short distances and hasn't been in an accident, so seatbelts must not be necessary for short trips.",Anecdotal
+"My friend never studies and still gets good grades, so studying must not improve academic performance.",Anecdotal
+"I know someone who has never had a flu shot and hasn't caught the flu, so flu shots must be unnecessary.",Anecdotal
+"My coworker didn't vaccinate their kids and they've never been sick, so vaccines are unnecessary.",Anecdotal
+"My cousin never wears sunscreen at the beach and hasn't gotten sunburned, so sunscreen must be unnecessary for beach outings.",Anecdotal
+"My neighbor never wears sunscreen and hasn't gotten sunburned, so sunscreen must be unnecessary.",Anecdotal
+"My aunt never wears a seatbelt on short drives and hasn't been in an accident, so seatbelts must be unnecessary for short trips.",Anecdotal
+"My coworker ate moldy bread and was fine, so mold must not be harmful.",Anecdotal
+"My friend got a job without a college degree, so higher education is unnecessary for success.",Anecdotal
+"My coworker never wears sunscreen during winter and hasn't gotten sunburned, so sunscreen must be unnecessary in cold weather.",Anecdotal
+"My neighbor never wears a raincoat in light rain and hasn't gotten sick, so raincoats must be unnecessary for light showers.",Anecdotal
+"My cousin always eats fast food and hasn't gained weight, so fast food can't be unhealthy.",Anecdotal
+"My friend always texts while driving and has never had an accident, so texting while driving isn't dangerous.",Anecdotal
+"My coworker never wears sunglasses in bright sunlight and hasn't had eye issues, so sunglasses must be unnecessary.",Anecdotal
+"My neighbor never wears gloves while handling chemicals and hasn't been harmed, so gloves must be unnecessary for chemical handling.",Anecdotal
+"My coworker never wears a raincoat in windy weather and hasn't gotten sick, so raincoats must be unnecessary for windy weather.",Anecdotal
+"My sister always eats raw cookie dough and hasn't gotten sick, so consuming raw dough must be safe.",Anecdotal
+"My friend never wears gloves while handling gardening tools and hasn't been harmed, so gloves must be unnecessary for gardening.",Anecdotal
+"I know someone who never studies for exams and still gets good grades, so studying must not be essential.",Anecdotal
+"I heard about a person who never went to college and became a millionaire, so college must not be necessary for success.",Anecdotal
+"My grandmother smoked her entire life and lived until she was 95, so smoking can't be that harmful.",Anecdotal
+"I know someone who never wears sunscreen at the beach and hasn't gotten sunburned, so sunscreen must be unnecessary.",Anecdotal
+"My sister never wears gloves when gardening and hasn't gotten blisters, so gloves must be unnecessary.",Anecdotal
+"My neighbor never wears a helmet while rock climbing and hasn't had head injuries, so helmets must be unnecessary for rock climbing.",Anecdotal
+"My neighbor never wears a raincoat in heavy rain and hasn't gotten sick, so raincoats must be unnecessary for heavy downpours.",Anecdotal
+"My friend never wears a life vest while fishing and hasn't drowned, so life vests must be unnecessary for fishing.",Anecdotal
+"My uncle smoked for years and lived a long life, so smoking must not be harmful.",Anecdotal
+"My neighbor never wears a helmet while biking and hasn't had head injuries, so helmets must be unnecessary for biking.",Anecdotal
+"My neighbor never wears gloves while gardening and hasn't been pricked by thorns, so gloves must be unnecessary for gardening.",Anecdotal
+"My cousin never wears a helmet while snowboarding and hasn't had head injuries, so helmets must be unnecessary for snowboarding.",Anecdotal
+"My neighbor leaves their windows open at night and hasn't been burglarized, so security alarms must be unnecessary.",Anecdotal
+"My relative never wears a helmet while riding a bike and hasn't had head injuries, so helmets must be unnecessary for biking.",Anecdotal
+"My colleague never wears gloves while handling hot dishes and hasn't been burned, so gloves must be unnecessary for hot surfaces.",Anecdotal
+"My neighbor never wears gloves while handling tools and hasn't been hurt, so gloves must be unnecessary.",Anecdotal
+"My neighbor never wears a seatbelt in the backseat of a car and hasn't been injured, so seatbelts must not be important for backseat passengers.",Anecdotal
+"My friend never gets vaccinated and hasn't contracted any vaccine-preventable diseases, so vaccinations must be unnecessary.",Anecdotal
+"My friend never uses hand sanitizer and hasn't gotten sick, so hand sanitizer must be unnecessary.",Anecdotal
+"My cousin never wears a life jacket while boating and hasn't drowned, so life jackets must be unnecessary.",Anecdotal
+"My cousin never wears a helmet while riding a quad bike and hasn't had head injuries, so helmets must be unnecessary for quad biking.",Anecdotal
+"My colleague never backs up their computer files and hasn't lost data, so backing up must be unnecessary.",Anecdotal
+"A friend of mine never wears sunscreen while at the beach and hasn't gotten sunburned, so sunscreen must be unnecessary.",Anecdotal
+"My colleague never wears safety goggles while woodworking and hasn't had eye injuries, so goggles must be unnecessary.",Anecdotal
+"I've never worn a bike reflector at night and haven't been in an accident, so reflectors must be unnecessary.",Anecdotal
+"My friend always eats street food in foreign countries and hasn't gotten food poisoning, so street food must be safe.",Anecdotal
+"I know someone who never wears a helmet while skiing and hasn't had head injuries, so helmets must be unnecessary for skiing.",Anecdotal
+"My neighbor never wears a raincoat in drizzles and hasn't gotten sick, so raincoats must be unnecessary for light rain.",Anecdotal
+"My neighbor never wears sunscreen while gardening and hasn't gotten sunburned, so sunscreen must be unnecessary for gardening.",Anecdotal
+"My coworker never stretches before exercising and hasn't been injured, so stretching must not be important.",Anecdotal
+"My neighbor never wears gloves when gardening and hasn't been injured, so gloves must be unnecessary.",Anecdotal
+"I've never worn a face mask during flu season and haven't gotten sick, so face masks must be unnecessary.",Anecdotal
+"My uncle never takes vitamins and hasn't been deficient in any nutrients, so vitamins must be unnecessary.",Anecdotal
+"My coworker never wears earplugs at concerts and hasn't had hearing issues, so earplugs must be unnecessary.",Anecdotal
+"My cousin always eats street food and hasn't gotten sick, so street food must be safe.",Anecdotal
+"My neighbor never wears a raincoat in the rain and hasn't gotten sick, so raincoats must be unnecessary.",Anecdotal
+"My neighbor never wears a raincoat in light drizzles and hasn't gotten sick, so raincoats must be unnecessary for light rain.",Anecdotal
+"I've never worn a jacket in the winter and I've never been sick, so bundling up must be unnecessary.",Anecdotal
+"My friend never wears sunscreen while gardening and hasn't gotten sunburned, so sunscreen must be unnecessary for gardening.",Anecdotal
+"My coworker eats raw cookie dough and hasn't gotten sick, so raw eggs must not carry salmonella.",Anecdotal
+"My sister never wears shoes indoors and hasn't injured her feet, so shoes must not be necessary indoors.",Anecdotal
+"My brother never wears sunscreen and hasn't gotten skin cancer, so sunscreen must not be effective.",Anecdotal
+"My friend never wears gloves in the cold and doesn't get frostbite, so gloves must not be needed.",Anecdotal
+"I know someone who won the lottery on their first try, so playing the lottery is a sure way to get rich.",Anecdotal
+"My relative never wears a helmet while riding a scooter and hasn't had head injuries, so helmets must be unnecessary for scooters.",Anecdotal
+"My uncle never went to college and became successful, so college isn't necessary for success.",Anecdotal
+"My sibling never uses hand sanitizer and hasn't gotten sick, so hand sanitizer must be unnecessary.",Anecdotal
+"My cousin eats junk food all the time and has good skin, so diet must not affect skin health.",Anecdotal
+"My uncle never wears safety goggles in the lab and hasn't had any accidents, so goggles must be unnecessary.",Anecdotal
+"My dad always drives after drinking and never got into an accident, so drunk driving isn't dangerous.",Anecdotal
+"My coworker never wears a helmet while cycling and hasn't had head injuries, so helmets must be unnecessary for cycling.",Anecdotal
+"My friend always sleeps with the window open in winter and hasn't caught a cold, so fresh air must be unnecessary for warmth.",Anecdotal
+"My coworker didn't vaccinate her kids and they've never been sick, so vaccines are unnecessary.",Anecdotal
+"I've never been in a car accident despite not wearing a seatbelt, so seatbelts must not make a difference.",Anecdotal
+"My coworker never exercises and is still in good shape, so exercise must not be important for health.",Anecdotal
+"I've never worn sunscreen while skiing and haven't gotten sunburned, so sunscreen must be unnecessary for skiing.",Anecdotal
+"My coworker never wears a mask in a polluted city and hasn't had respiratory issues, so masks must be unnecessary.",Anecdotal
+"My friend never wears a helmet while horseback riding and hasn't had head injuries, so helmets must be unnecessary for horseback riding.",Anecdotal
+"My cousin never wears a helmet while biking and hasn't sustained head injuries, so helmets must be unnecessary.",Anecdotal
+"My uncle never wears a life vest while swimming and hasn't drowned, so life vests must be unnecessary.",Anecdotal
+"My friend always eats unwashed fruits and hasn't gotten sick, so washing fruits must be unnecessary.",Anecdotal
+"My friend never wears a mask in polluted areas and hasn't had respiratory issues, so masks must be unnecessary.",Anecdotal
+"My friend doesn't believe in climate change and has never experienced extreme weather, so climate change must be a hoax.",Anecdotal
+"I've never worn gloves while handling hot dishes and haven't been burned, so gloves must be unnecessary for handling hot items.",Anecdotal
+"I know someone who never wears gloves while working with tools and hasn't been injured, so gloves must be unnecessary for tool handling.",Anecdotal
+"My friend always eats raw eggs and hasn't gotten sick, so eating raw eggs must be safe.",Anecdotal
+"My friend never wears a life jacket while swimming and hasn't drowned, so life jackets must be unnecessary.",Anecdotal
+"My colleague never wears ear protection in noisy environments and hasn't had hearing problems, so ear protection must be unnecessary.",Anecdotal
+"My friend never wears a seatbelt on long car rides and hasn't been hurt, so seatbelts must not be necessary for long drives.",Anecdotal
+"I know someone who never wears a life vest while kayaking and hasn't drowned, so life vests must be unnecessary for kayaking.",Anecdotal
+"I know someone who never wears a helmet while biking and has never been injured, so helmets are unnecessary.",Anecdotal
+"I know someone who never wears sunscreen while gardening and hasn't gotten sunburned, so sunscreen must be unnecessary for gardening.",Anecdotal
+"My coworker never wears sunscreen while skiing and hasn't gotten sunburned, so sunscreen must be unnecessary for skiing.",Anecdotal
+"I've never been stung by a bee, so bee stings can't be that painful.",Anecdotal
+"My friend never wears a seatbelt in the backseat of a car and hasn't been hurt, so seatbelts must not be important for backseat passengers.",Anecdotal
+"My aunt never exercises and she's still in good shape, so exercise isn't necessary for fitness.",Anecdotal
+"I've never had a problem with food poisoning from leaving food out overnight, so food safety guidelines are exaggerated.",Anecdotal
+"My cousin never wears a helmet while riding a dirt bike and hasn't had head injuries, so helmets must be unnecessary for dirt biking.",Anecdotal
+"My neighbor's house got robbed, and they had a security system installed, so security systems don't work.",Anecdotal
+"My uncle never wears safety boots on construction sites and hasn't had foot injuries, so safety boots must be unnecessary.",Anecdotal
+"I know someone who never wears gloves while handling household cleaners and hasn't been harmed, so gloves must be unnecessary.",Anecdotal
+"I know someone who never wears gloves while handling sharp objects and hasn't been cut, so gloves must be unnecessary.",Anecdotal
+"I've never used hand sanitizer and haven't gotten sick, so hand sanitizer must be unnecessary.",Anecdotal
+"My coworker doesn't wear gloves when handling chemicals and hasn't been harmed, so gloves must be unnecessary.",Anecdotal
+"I know someone who never wears gloves while handling electrical appliances and hasn't been shocked, so gloves must be unnecessary.",Anecdotal
+"My sister never wears a hat in the sun and hasn't gotten sunburned, so hats must be unnecessary for sun protection.",Anecdotal
+"My cousin never wears a reflective vest while biking at night and hasn't been in an accident, so reflective vests must be unnecessary.",Anecdotal
+"My cousin never wears gloves while cooking and hasn't been burned, so gloves must be unnecessary for cooking.",Anecdotal
+"My cousin never wears a helmet when rock climbing and hasn't had head injuries, so helmets must be unnecessary for climbing.",Anecdotal
+"My friend never wears a seatbelt and has never been injured in a car accident, so seatbelts must not be necessary.",Anecdotal
+"My friend always sleeps with wet hair and hasn't caught a cold, so drying hair before bed must be unnecessary.",Anecdotal
+"My friend never wears a helmet while biking and hasn't had head injuries, so helmets must be unnecessary.",Anecdotal
+"My neighbor never wears a raincoat in light rain and hasn't gotten sick, so raincoats must be unnecessary for light rain.",Anecdotal
+"My cousin never wears a helmet when riding a bike and hasn't had head injuries, so helmets must be unnecessary.",Anecdotal
+"My grandmother lived in a damp house and lived a long life, so damp environments aren't harmful.",Anecdotal
+"My cousin never wears sunscreen and hasn't gotten sunburned, so sunscreen must not be necessary.",Anecdotal
+"My friend eats expired food all the time and hasn't gotten sick, so expiration dates must be irrelevant.",Anecdotal
+"My neighbor never locks their car and it's never been stolen, so car locks must be unnecessary.",Anecdotal
+"My coworker never wears sunscreen during overcast days and hasn't gotten sunburned, so sunscreen must be unnecessary on cloudy days.",Anecdotal
+"My friend bought a cheap smartphone and it works just as well as the expensive ones, so there's no point in buying expensive phones.",Anecdotal
+"My coworker never wears a hard hat on construction sites and hasn't been injured, so hard hats must be unnecessary.",Anecdotal
+"My friend never wears gloves while handling household chemicals and hasn't been harmed, so gloves must be unnecessary for chemical handling.",Anecdotal
+"I heard about a person who won the lottery twice, so winning the lottery must not be as rare as they say.",Anecdotal
+"My uncle never wears a life vest while boating and hasn't drowned, so life vests must be unnecessary.",Anecdotal
+"I never floss and my teeth are fine, so flossing isn't necessary.",Anecdotal
+"I know someone who never wears gloves while handling household chemicals and hasn't been harmed, so gloves must be unnecessary.",Anecdotal
+"I've never washed my hands before eating and haven't gotten sick, so handwashing must be unnecessary.",Anecdotal
+"My coworker never wears a seatbelt in the car and hasn't been injured, so seatbelts must be unnecessary.",Anecdotal
+"My friend ate expired food and didn't get sick, so expiration dates must be exaggerated.",Anecdotal
+"My sister got a loan from a predatory lender and it helped her, so predatory lending isn't harmful.",Anecdotal
+"My friend never stretches before exercising and hasn't gotten injured, so stretching must not prevent injuries.",Anecdotal
+"My aunt never wears gloves when handling chemicals and hasn't been harmed, so gloves must be unnecessary.",Anecdotal
+"My cousin never wears a seatbelt on short drives and hasn't been injured, so seatbelts must not be necessary for short trips.",Anecdotal
+"My friend never uses hand sanitizer after touching public surfaces and hasn't gotten sick, so hand sanitizer must be unnecessary.",Anecdotal
+"My aunt never wears a mask in a dusty environment and hasn't had respiratory issues, so masks must be unnecessary.",Anecdotal
+"My cousin never wears a helmet while riding a bike and hasn't had head injuries, so helmets must be unnecessary for biking.",Anecdotal
+"My neighbor never wears a helmet while rollerblading and hasn't had head injuries, so helmets must be unnecessary for rollerblading.",Anecdotal
+"I know someone who never wears a seatbelt in a rental car and hasn't been injured, so seatbelts must not be necessary for rental cars.",Anecdotal
+"My friend never wears gloves when gardening and hasn't been injured, so gloves must be unnecessary.",Anecdotal
+"My neighbor never wears sunglasses on sunny days and hasn't had eye issues, so sunglasses must be unnecessary.",Anecdotal
+"My neighbor never uses insect repellent in tropical areas and hasn't gotten bitten, so repellent must be unnecessary.",Anecdotal
+"I know someone who never wears a seatbelt in a taxi and hasn't been injured, so seatbelts must not be necessary for taxi rides.",Anecdotal
+"My colleague never wears safety goggles while cooking and hasn't had eye injuries, so goggles must be unnecessary for cooking.",Anecdotal
+"My colleague never wears a raincoat in the rain and hasn't gotten sick, so raincoats must be unnecessary.",Anecdotal
+"My colleague never wears a mask in a polluted city and hasn't had respiratory issues, so masks must be unnecessary.",Anecdotal
+"My cousin got a job without any qualifications, so qualifications are irrelevant for employment.",Anecdotal
+"My sister never wears sunscreen and hasn't gotten skin cancer, so sunscreen must be unnecessary.",Anecdotal
+"My uncle never washes his fruits and vegetables and hasn't gotten sick, so washing produce must be unnecessary.",Anecdotal
+"I've never checked the weather forecast before going out and haven't been caught in bad weather, so weather forecasts must be unnecessary.",Anecdotal
+"My friend ate junk food all the time and lived a long life, so junk food isn't harmful.",Anecdotal
+"My cousin never wears gloves when handling chemicals and hasn't been harmed, so gloves must be unnecessary.",Anecdotal
+"My friend never wears a face mask in dusty environments and hasn't had respiratory issues, so face masks must be unnecessary.",Anecdotal
+"I know someone who dropped out of high school and became wealthy, so education isn't crucial.",Anecdotal
+"I know someone who never wears a mask during flu season and hasn't gotten sick, so masks must be unnecessary.",Anecdotal
+"My colleague never wears safety boots on the factory floor and hasn't had foot injuries, so safety boots must be unnecessary.",Anecdotal
+"My cousin dropped out of school and became successful, so education isn't necessary for success.",Anecdotal
+"My aunt never wears a life vest while kayaking and hasn't drowned, so life vests must be unnecessary for kayaking.",Anecdotal
+"My sister doesn't wear a helmet while biking and hasn't had head injuries, so helmets must be unnecessary.",Anecdotal
+"My friend never wears a face mask during flu season and hasn't gotten sick, so face masks must be unnecessary.",Anecdotal
+"I know a person who smokes and is perfectly healthy, so smoking doesn't cause health issues.",Anecdotal
+"My friend never exercises but remains slim, so exercise isn't necessary for weight management.",Anecdotal
+"My sister never wears gloves when handling hot objects and hasn't been burned, so gloves must be unnecessary.",Anecdotal
+"My friend's grandmother smoked all her life and lived to be 90, so smoking must not be harmful.",Anecdotal
+"I know someone who never wears a helmet while skiing and hasn't had any head injuries, so helmets must be unnecessary.",Anecdotal
+"I know someone who never wears a bike helmet and hasn't had head injuries, so helmets must be unnecessary.",Anecdotal
+"My acquaintance never wears gloves while cooking and hasn't been burned, so gloves must be unnecessary in the kitchen.",Anecdotal
+"My friend never wears a raincoat in the rain and doesn't get sick, so raincoats must not serve a purpose.",Anecdotal
+"My coworker never wears a helmet while skiing and hasn't had head injuries, so helmets must be unnecessary for skiing.",Anecdotal
+"My friend never wears sunscreen while at the beach and hasn't gotten sunburned, so sunscreen must be unnecessary.",Anecdotal
+"My friend's cat never wears a collar and always comes home, so collars must be unnecessary for cats.",Anecdotal
+"My cousin never wears a helmet while skateboarding and hasn't had head injuries, so helmets must be unnecessary for skateboarding.",Anecdotal
+"I've never worn gloves while handling chemicals and haven't been harmed, so gloves must be unnecessary for chemical handling.",Anecdotal
+"My coworker never wears sunscreen at high altitudes and hasn't gotten sunburned, so sunscreen must be unnecessary at high elevations.",Anecdotal
+"My neighbor never wears a raincoat during downpours and hasn't gotten sick, so raincoats must be unnecessary.",Anecdotal
+"My aunt never wears safety shoes in the workshop and hasn't had foot injuries, so safety shoes must be unnecessary.",Anecdotal
+"I know someone who never wears warm clothing in cold climates and hasn't gotten sick, so warm clothing must be unnecessary for cold weather.",Anecdotal
+"My cousin never wears gloves while handling chemicals and hasn't been harmed, so gloves must be unnecessary for chemical handling.",Anecdotal
+"My friend never wears a seatbelt in taxis and hasn't been injured, so seatbelts must not be necessary for taxi rides.",Anecdotal
+"My cousin smokes a pack a day and has never had lung cancer, so smoking can't be that dangerous.",Anecdotal
+"My grandfather never wore sunscreen and never got skin cancer, so sunscreen must not be necessary.",Anecdotal
+"I know someone who skydives without a parachute and survives by landing in trees, so parachutes must be overrated.",Anecdotal
+"I know someone who never wears a hard hat on construction sites and hasn't been injured, so hard hats must be unnecessary.",Anecdotal
+"My friend never wears a seatbelt in the car and hasn't been injured, so seatbelts must not be important.",Anecdotal
+"My cousin never wears sunscreen and hasn't gotten sunburned, so sunscreen must not be needed.",Anecdotal
+"I've never worn a bike helmet and haven't had head injuries, so helmets must be unnecessary for biking.",Anecdotal
+"My coworker ate sushi from a gas station and didn't get food poisoning, so sushi must be safe from any source.",Anecdotal
+"My uncle never wears a raincoat in the rain and hasn't gotten sick, so raincoats must be unnecessary for rain.",Anecdotal
+"I've never had a flu shot and haven't gotten the flu, so vaccines must not be necessary.",Anecdotal
+"I've never taken vitamins and I'm perfectly healthy, so they must not be important.",Anecdotal
+"I know someone who never wears a raincoat in heavy rain and hasn't caught a cold, so raincoats must be unnecessary.",Anecdotal
+"My coworker never wears sunscreen while gardening and hasn't gotten sunburned, so sunscreen must be unnecessary for gardening.",Anecdotal
+"My cousin never wears a helmet while riding a motorcycle and hasn't had head injuries, so helmets must be unnecessary for motorcycles.",Anecdotal
+"My neighbor doesn't lock their bike and it's never been stolen, so bike locks must be unnecessary.",Anecdotal
+"My friend always walks barefoot on hot pavement and hasn't been burned, so shoes must be unnecessary.",Anecdotal
+"My colleague never wears a raincoat in hail and hasn't gotten sick, so raincoats must be unnecessary for hailstorms.",Anecdotal
+"My colleague never wears gloves while handling hot objects and hasn't been burned, so gloves must be unnecessary.",Anecdotal
+"I've never been stung by a wasp, so wasp stings can't be painful.",Anecdotal
+"My friend never wears a life jacket while rafting and hasn't drowned, so life jackets must be unnecessary for rafting.",Anecdotal
+"My coworker never wears sunscreen while running and hasn't gotten sunburned, so sunscreen must be unnecessary for running.",Anecdotal
+"My neighbor never wears a bike helmet and hasn't had head injuries, so bike helmets must be unnecessary.",Anecdotal
+"I know someone who never wears a helmet while skiing and hasn't had head injuries, so helmets must be unnecessary.",Anecdotal
+"My coworker never wears a helmet while skateboarding and hasn't had head injuries, so helmets must be unnecessary for skateboarding.",Anecdotal
+"I know someone who never wears a helmet while skateboarding and hasn't had any head injuries, so helmets must be unnecessary.",Anecdotal
+"I know someone who never wears a helmet while skateboarding and hasn't had head injuries, so helmets must be unnecessary.",Anecdotal
+"My dad always drove after having a few drinks and never got caught, so drinking and driving isn't a big deal.",Anecdotal
+"My neighbor never wears safety shoes in the workshop and hasn't had foot injuries, so safety shoes must be unnecessary.",Anecdotal
+"My sister never wears a bike helmet and hasn't had head injuries, so bike helmets must be unnecessary.",Anecdotal
+"My aunt always leaves her house unlocked and hasn't been burglarized, so locking doors must be unnecessary.",Anecdotal
+"My friend always eats raw cookie dough and hasn't gotten sick, so eating raw dough must be safe.",Anecdotal
+"My coworker never wears gloves when handling chemicals and hasn't been harmed, so gloves must be unnecessary.",Anecdotal
+"My friend never wears gloves while using household cleaners and hasn't been harmed, so gloves must be unnecessary for cleaning.",Anecdotal
+"My cousin never wears a seatbelt and walked away from a car crash, so seatbelts are unnecessary.",Anecdotal
+"My friend always eats raw meat and hasn't gotten sick, so eating raw meat must be safe.",Anecdotal
+"My acquaintance never wears a raincoat in drizzles and hasn't gotten wet, so raincoats must be unnecessary for drizzles.",Anecdotal
+"My cousin never wears a helmet while riding a horse and hasn't had head injuries, so helmets must be unnecessary for horseback riding.",Anecdotal
+"My coworker never wears sunscreen and hasn't gotten sunburned, so sunscreen must be unnecessary.",Anecdotal
+"My friend's dog never wears a leash and always comes back, so leashes must be unnecessary for dogs.",Anecdotal
+"My grandfather smoked a pack a day and lived to be 90, so smoking can't be that bad.",Anecdotal
+"My coworker never wears sunscreen in the shade and hasn't gotten sunburned, so sunscreen must be unnecessary in shaded areas.",Anecdotal
+"My sister never wears a seatbelt in taxis and hasn't been injured, so seatbelts must not be necessary for taxi rides.",Anecdotal
+"I never wear a helmet when biking and I've never had a head injury, so helmets are pointless.",Anecdotal
+"My grandmother lived in a house filled with mold and lived a long life, so mold isn't as harmful as people say.",Anecdotal
+"My colleague never wears a raincoat in snow and hasn't gotten sick, so raincoats must be unnecessary for snowy weather.",Anecdotal
+"My colleague never wears a raincoat in fog and hasn't gotten sick, so raincoats must be unnecessary for foggy weather.",Anecdotal
+"I know someone who invested all their money in a single stock and made a fortune, so diversification isn't crucial.",Anecdotal
+"My friend always walks barefoot in the forest and hasn't been injured, so shoes must be unnecessary in the forest.",Anecdotal
+"My colleague never wears safety goggles while using power tools and hasn't had eye injuries, so goggles must be unnecessary.",Anecdotal
+"I've never been bitten by a venomous spider, so spider bites must not be dangerous.",Anecdotal
+"My neighbor never wears a raincoat during monsoons and hasn't gotten sick, so raincoats must be unnecessary.",Anecdotal
+"My sibling never wears a helmet while ice skating and hasn't had head injuries, so helmets must be unnecessary for ice skating.",Anecdotal
+"My cousin never wears a life vest while swimming and hasn't drowned, so life vests must be unnecessary for swimming.",Anecdotal
+"I've never worn a seatbelt on airplanes and haven't been hurt, so seatbelts must not be necessary for air travel.",Anecdotal
+"My neighbor never wears sunscreen while playing tennis and hasn't gotten sunburned, so sunscreen must be unnecessary for tennis.",Anecdotal
+"I know someone who never wears a seatbelt in the car and hasn't been injured, so seatbelts must not be necessary.",Anecdotal
+"I've heard of someone who never wears a helmet while skateboarding and hasn't had head injuries, so helmets must be unnecessary for skateboarding.",Anecdotal
+"I know someone who never wears gloves while handling hot pans and hasn't been burned, so gloves must be unnecessary.",Anecdotal
+"My friend always procrastinates and still manages to get good grades, so procrastination doesn't affect academic performance.",Anecdotal
+"My friend swam immediately after eating and was fine, so swimming after eating must not be dangerous.",Anecdotal
+"My uncle never reads books and is still knowledgeable, so reading must not be essential for learning.",Anecdotal
+"I've never worn sunscreen while swimming and haven't gotten sunburned, so sunscreen must not be necessary.",Anecdotal
+"My uncle never wears a raincoat in a thunderstorm and hasn't gotten struck by lightning, so raincoats must be unnecessary for thunderstorms.",Anecdotal
+"My neighbor never wears a helmet while riding a horse and hasn't had head injuries, so helmets must be unnecessary for horseback riding.",Anecdotal
+"I've never used insect repellent while camping and haven't been bitten, so insect repellent must be unnecessary.",Anecdotal
+"My aunt never wears a raincoat during light showers and hasn't gotten wet, so raincoats must be unnecessary for light rain.",Anecdotal
+"My neighbor never wears safety goggles while woodworking and hasn't had eye injuries, so goggles must be unnecessary.",Anecdotal
+"My neighbor never wears a raincoat in the rain and hasn't gotten sick, so raincoats must not be necessary.",Anecdotal
+"My colleague never wears safety goggles while using a computer and hasn't had eye strain, so goggles must be unnecessary.",Anecdotal
+"My coworker always drives over the speed limit and hasn't gotten a ticket, so speeding must not be punishable.",Anecdotal
+"My coworker drinks tap water all the time and hasn't gotten sick, so water purification must be unnecessary.",Anecdotal
+"I know someone who never wears a helmet while skateboarding and hasn't been injured, so helmets must be unnecessary.",Anecdotal
+"My cousin never wears gloves while cooking and hasn't been burned, so gloves must be unnecessary.",Anecdotal
+"My aunt never wears a raincoat in the rain and hasn't gotten a cold, so raincoats must be unnecessary.",Anecdotal
+"My friend never wears gloves while using cleaning products and hasn't been harmed, so gloves must be unnecessary for cleaning.",Anecdotal
+"My friend never wears gloves while cleaning and hasn't been harmed, so gloves must be unnecessary for cleaning.",Anecdotal
+"My friend never wears gloves while cooking and hasn't been burned, so gloves must be unnecessary for cooking.",Anecdotal
+"My relative never wears a seatbelt in the car and hasn't been injured, so seatbelts must not be important.",Anecdotal
+"My neighbor never wears sunscreen while playing golf and hasn't gotten sunburned, so sunscreen must be unnecessary for golf.",Anecdotal
+"My coworker never wears safety goggles in the lab and hasn't had any eye injuries, so goggles must be unnecessary.",Anecdotal
+"My cousin got a job without any qualifications, so qualifications aren't necessary for employment.",Anecdotal
+"My sister got a loan from a payday lender and it helped her out of a tough spot, so payday loans are a good solution to financial problems.",Anecdotal
+"I know someone who never wears a life vest while boating and hasn't drowned, so life vests must be unnecessary for boating.",Anecdotal
+"My neighbor never wears a raincoat during thunderstorms and hasn't gotten struck by lightning, so raincoats must be unnecessary.",Anecdotal
+"My acquaintance never wears a raincoat in light rain and hasn't gotten wet, so raincoats must be unnecessary.",Anecdotal
+"I've never worn oven mitts when handling hot dishes and haven't been burned, so oven mitts must be unnecessary.",Anecdotal
+"My neighbor never wears a rain hat in the rain and hasn't gotten a cold, so rain hats must be unnecessary.",Anecdotal
+"My coworker never wears a helmet while rollerblading and hasn't had head injuries, so helmets must be unnecessary for rollerblading.",Anecdotal
+"My cousin never wears gloves while handling food and hasn't been ill, so gloves must be unnecessary.",Anecdotal
+"My colleague never wears safety gloves while using power tools and hasn't been injured, so gloves must be unnecessary.",Anecdotal
+"My neighbor never wears gloves while doing household chores and hasn't been harmed, so gloves must be unnecessary for chores.",Anecdotal
+"My neighbor's child never wears a helmet when biking and hasn't been injured, so helmets must be unnecessary for kids.",Anecdotal
+"My uncle never wears sunscreen at the beach and hasn't gotten sunburned, so sunscreen must not be necessary.",Anecdotal
+"I've never worn sunscreen at high altitudes and haven't gotten sunburned, so sunscreen must be unnecessary at high elevations.",Anecdotal
+"My coworker never wears sunscreen while hiking in the shade and hasn't gotten sunburned, so sunscreen must be unnecessary in shaded areas.",Anecdotal
+"My friend never wears gloves while handling pets and hasn't been harmed, so gloves must be unnecessary.",Anecdotal
+"My cousin never wears a life vest while rafting and hasn't drowned, so life vests must be unnecessary for rafting.",Anecdotal
+"I tried that new diet for a week and lost ten pounds, so it must be the most effective diet out there.",Anecdotal
+"I know someone who smokes and is perfectly healthy, so smoking isn't harmful.",Anecdotal
+"My dad never wears a life jacket while boating and hasn't drowned, so life jackets must be unnecessary.",Anecdotal
+"I know someone who never wears a hat in the sun and hasn't gotten sunburned, so hats must be unnecessary for sun protection.",Anecdotal
+"My colleague never wears a raincoat in snowy weather and hasn't gotten sick, so raincoats must be unnecessary for snowy weather.",Anecdotal
+"My cousin never wears a helmet while riding a scooter and hasn't had head injuries, so helmets must be unnecessary for scooters.",Anecdotal
+"My coworker never wears a life vest while swimming and hasn't drowned, so life vests must be unnecessary.",Anecdotal
+"My neighbor smoked for decades and lived to be 90, so smoking can't be that harmful.",Anecdotal
+"I smoked for years and never got cancer, so smoking can't be that bad for you.",Anecdotal
+"My neighbor never wears gloves while cooking and hasn't been burned, so gloves must be unnecessary for cooking.",Anecdotal
+"My neighbor never wears a bike helmet and hasn't had any accidents, so helmets must be unnecessary.",Anecdotal
+"My coworker never wears a helmet while rock climbing and hasn't had head injuries, so helmets must be unnecessary for climbing.",Anecdotal
+"My colleague never wears safety gloves while using power tools and hasn't been injured, so gloves must be unnecessary for gardening.",Anecdotal
+"My friend got into a car accident because of speeding but wasn't injured, so speeding isn't risky.",Anecdotal
+"I've never worn a helmet while ice skating and haven't had head injuries, so helmets must be unnecessary for ice skating.",Anecdotal
+"My grandfather lived until 95 and drank whiskey every day, so alcohol must be good for longevity.",Anecdotal
+"My colleague never wears safety gloves while gardening and hasn't been injured, so gloves must be unnecessary for gardening.",Anecdotal
+"My friend never wears gloves while handling pets and hasn't been scratched, so gloves must be unnecessary for pet handling.",Anecdotal
+"My coworker drinks energy drinks every day and is still healthy, so they must not be harmful.",Anecdotal
+"I know someone who never wears a seatbelt in the car and hasn't been injured, so seatbelts must be unnecessary.",Anecdotal
+"I know someone who never wears sunscreen and hasn't gotten sunburned, so sunscreen must be unnecessary.",Anecdotal
+"My coworker always eats expired food and hasn't gotten sick, so expiration dates are meaningless.",Anecdotal
+"I've never heard of anyone being electrocuted by their phone charger, so using cheap chargers must be safe.",Anecdotal
+"My neighbor smokes marijuana every day and has a successful career, so marijuana use doesn't hinder productivity.",Anecdotal
+"My coworker never wears a face mask in a polluted city and hasn't had respiratory issues, so face masks must be unnecessary.",Anecdotal
+"My friend used a cheap skincare product and it worked wonders, so expensive skincare products are a waste.",Anecdotal
+"I know someone who never wears a seatbelt and was in a car crash but survived, so seatbelts are unnecessary.",Anecdotal
+"I know someone who never wears gloves while handling hot tools and hasn't been burned, so gloves must be unnecessary.",Anecdotal
+"My colleague never wears safety goggles in the lab and hasn't had eye injuries, so goggles must be unnecessary.",Anecdotal
+"I know someone who never wears a helmet while biking and hasn't had head injuries, so helmets must be unnecessary.",Anecdotal
+"My cousin never wears a helmet while skiing and hasn't had head injuries, so helmets must be unnecessary for skiing.",Anecdotal
+"My neighbor never wears gloves while cleaning and hasn't been harmed, so gloves must be unnecessary for cleaning.",Anecdotal
+"My friend never wears a helmet while skydiving and hasn't had head injuries, so helmets must be unnecessary for skydiving.",Anecdotal
+"My cousin never reads the instructions and still assembles furniture correctly, so instructions must be unnecessary.",Anecdotal
+"My colleague never wears safety goggles while working at the office and hasn't had eye injuries, so goggles must be unnecessary.",Anecdotal
+"My coworker never wears sunscreen on cloudy days and hasn't gotten sunburned, so sunscreen must be unnecessary when it's overcast.",Anecdotal
+"My friend never wears a mask during flu season and hasn't gotten sick, so masks must not be necessary.",Anecdotal
+"My sister never wears a mask in a polluted city and hasn't had respiratory issues, so masks must be unnecessary.",Anecdotal
+"My coworker never wears gloves while using a chainsaw and hasn't been injured, so gloves must be unnecessary.",Anecdotal
+"My friend never wears sunscreen while swimming indoors and hasn't gotten sunburned, so sunscreen must be unnecessary for indoor swimming.",Anecdotal
+"My cousin never wears a raincoat in the rain and hasn't gotten sick, so raincoats must be unnecessary.",Anecdotal
+"My colleague doesn't back up their computer and hasn't lost any data, so backing up files must not be crucial.",Anecdotal
+"My uncle always eats street food while traveling and hasn't gotten sick, so street food must be safe.",Anecdotal
+"My neighbor never wears a life vest while fishing and hasn't drowned, so life vests must be unnecessary for fishing.",Anecdotal
+"My friend always drives with one hand and hasn't had accidents, so using both hands must be unnecessary for driving.",Anecdotal
+"My uncle never wears a seatbelt in the car and hasn't been injured, so seatbelts must not be necessary for car rides.",Anecdotal
+"My coworker never wears a seatbelt in the company vehicle and hasn't been hurt, so seatbelts must not be important.",Anecdotal
+"I know someone who never wears gloves when gardening and hasn't gotten blisters, so gloves must be unnecessary.",Anecdotal
+"My friend always eats raw fish and hasn't gotten sick, so eating raw fish must be safe.",Anecdotal
+"My neighbor leaves their doors unlocked and hasn't been robbed, so locking doors must not prevent theft.",Anecdotal
+"My colleague ate street food while traveling and didn't get food poisoning, so street food must be safe everywhere.",Anecdotal
+"My cousin never wears gloves while handling hot pans and hasn't been burned, so gloves must be unnecessary for cooking.",Anecdotal
+"I know someone who never wears sunglasses and hasn't had eye problems, so sunglasses must be unnecessary.",Anecdotal
+"My dad always drives after drinking and never got into an accident, so drunk driving isn't risky.",Anecdotal
+"My sister never wears a helmet while biking and hasn't had head injuries, so helmets must be unnecessary for biking.",Anecdotal
+"I know someone who never wears a helmet while biking and has never had an accident, so helmets are unnecessary.",Anecdotal
+"My coworker never wears safety shoes in the workshop and hasn't had foot injuries, so safety shoes must be unnecessary.",Anecdotal
+"My uncle never wears a life jacket while boating and hasn't drowned, so life jackets must be unnecessary.",Anecdotal
+"I know someone who never wears warm clothing in winter and hasn't gotten sick, so warm clothing must be unnecessary for cold weather.",Anecdotal
+"My colleague never wears a bike helmet and hasn't had head injuries, so bike helmets must be unnecessary.",Anecdotal
+"My sister got a loan from a predatory lender and it helped her out, so predatory lending is acceptable.",Anecdotal
+"I know someone who never wears sunscreen and has never had skin cancer, so sunscreen is unnecessary.",Anecdotal
+"My acquaintance never wears a raincoat in heavy rain and hasn't caught a cold, so raincoats must be unnecessary.",Anecdotal
+"My neighbor never wears gloves while gardening and hasn't been harmed, so gloves must be unnecessary for gardening.",Anecdotal
+"My neighbor never wears a mask in a dusty environment and hasn't had respiratory issues, so masks must be unnecessary.",Anecdotal
+"I know someone who never wears gloves while cleaning and hasn't had any issues, so gloves must be unnecessary.",Anecdotal
+"My friend never wears gloves while shoveling snow and hasn't been frostbitten, so gloves must be unnecessary for snow shoveling.",Anecdotal
+"My coworker drinks excessively but doesn't suffer from liver problems, so alcohol must not harm the liver.",Anecdotal
+"My coworker never wears a seatbelt in the car and hasn't been injured, so seatbelts must not be necessary.",Anecdotal
+"My coworker always skips stretching before exercising and hasn't been injured, so stretching must be unnecessary.",Anecdotal
+"My friend doesn't wash his hands after using the restroom and hasn't gotten sick, so handwashing must not be important.",Anecdotal
+"My cousin never wears a helmet while snowmobiling and hasn't had head injuries, so helmets must be unnecessary for snowmobiling.",Anecdotal
+"My friend always rides a bike without brakes and hasn't had an accident, so brakes must be unnecessary.",Anecdotal
+"My friend never wears a helmet while skateboarding and hasn't been injured, so helmets must be unnecessary.",Anecdotal
+"My aunt never gets flu shots and hasn't gotten the flu, so flu shots must not be necessary.",Anecdotal
+"My neighbor never wears gloves while handling paint and hasn't had any issues, so gloves must be unnecessary.",Anecdotal
+"I know someone who never wears gloves while handling pets and hasn't been scratched, so gloves must be unnecessary.",Anecdotal
+"My aunt eats red meat every day and has low cholesterol, so red meat doesn't affect cholesterol levels.",Anecdotal
+"I know someone who never wears gloves while handling chemicals and hasn't been harmed, so gloves must be unnecessary.",Anecdotal
+"I know a person who never flosses and has great teeth, so flossing must not be necessary.",Anecdotal
+"I know someone who never wears gloves when handling chemicals and hasn't been harmed, so gloves must be unnecessary.",Anecdotal
+"I know someone who dropped out of high school and became wealthy, so education is overrated.",Anecdotal
+"My friend always swims in deep waters without floatation devices and hasn't drowned, so floatation devices must be unnecessary.",Anecdotal
+"My colleague never wears ear protection in noisy environments and hasn't had hearing damage, so ear protection must be unnecessary.",Anecdotal
+"My uncle never wears gloves while handling firewood and hasn't been splintered, so gloves must be unnecessary.",Anecdotal
+"My friend invested all his money in a single stock and made a fortune, so diversification is pointless.",Anecdotal
+"I know someone who doesn't clean their house regularly and hasn't had pest problems, so cleaning must not deter pests.",Anecdotal
+"My coworker never wears a raincoat in thunderstorms and hasn't gotten sick, so raincoats must be unnecessary for thunderstorms.",Anecdotal
+"My brother eats junk food every day and is still healthy, so diet doesn't matter.",Anecdotal
+"My colleague never wears sunscreen at the beach and hasn't gotten sunburned, so sunscreen must be unnecessary.",Anecdotal
+"My coworker never wears a face mask in a dusty warehouse and hasn't had respiratory issues, so face masks must be unnecessary.",Anecdotal
+"My grandfather drove without a seatbelt all his life and never got injured, so seatbelts must not provide much protection.",Anecdotal
+"I've heard of someone who never wears a helmet while riding a scooter and hasn't had head injuries, so helmets must be unnecessary for scooters.",Anecdotal
+"My sister never reads warning labels and hasn't had any adverse effects, so warnings must be unnecessary.",Anecdotal
+"My friend never wears a seatbelt in the car and hasn't been injured, so seatbelts must be unnecessary.",Anecdotal
+"I know someone who dropped out of school and became a millionaire, so education is overrated.",Anecdotal
+"My neighbor never locks their doors and hasn't been burglarized, so locks must be unnecessary.",Anecdotal
+"I know someone who never studies for exams and always gets good grades, so studying must not be necessary.",Anecdotal
+"I know someone who never wears a life vest while swimming and hasn't drowned, so life vests must be unnecessary for swimming.",Anecdotal
+"My grandfather lived to be 100 despite never exercising, so physical activity must not be that important.",Anecdotal
+"My colleague never wears safety shoes in the workshop and hasn't had foot injuries, so safety shoes must be unnecessary.",Anecdotal
+"My sister always leaves the window open at night and hasn't caught a cold, so fresh air must be unnecessary for health.",Anecdotal
+"My coworker always leaves their phone plugged in overnight and hasn't had a battery problem, so overcharging must not be harmful.",Anecdotal
+"My friend always eats fast food and hasn't gained weight, so healthy eating must be unnecessary.",Anecdotal
+"My uncle never wears a seatbelt in the car and hasn't been hurt, so seatbelts must not be important.",Anecdotal
+"My friend never wears a helmet while snowboarding and hasn't had head injuries, so helmets must be unnecessary for snowboarding.",Anecdotal
+"My cousin never wears a helmet while mountain biking and hasn't had head injuries, so helmets must be unnecessary for mountain biking.",Anecdotal
+"My colleague procrastinates all the time and still meets deadlines, so procrastination doesn't impact productivity.",Anecdotal
+"My coworker never wears a seatbelt and has never been injured in a car accident, so seatbelts are unnecessary.",Anecdotal
+"My coworker never wears safety glasses when using power tools and hasn't had eye injuries, so safety glasses must be unnecessary.",Anecdotal
+"I know someone who never wears a helmet while skiing and has never had a head injury, so helmets are unnecessary.",Anecdotal
+"My friend never wears ear protection in noisy environments and hasn't had hearing problems, so ear protection must be unnecessary.",Anecdotal
+"My friend always drives with one hand on the wheel and hasn't had an accident, so one-handed driving must be safe.",Anecdotal
+"I know someone who never wears a helmet while biking and hasn't been injured, so helmets must be unnecessary.",Anecdotal
+"My coworker never wears a raincoat in misty weather and hasn't gotten sick, so raincoats must be unnecessary for misty weather.",Anecdotal
+"My neighbor never wears a raincoat in light showers and hasn't gotten sick, so raincoats must be unnecessary for light rain.",Anecdotal
+"My coworker never wears sunscreen during dusk and hasn't gotten sunburned, so sunscreen must be unnecessary during sunset.",Anecdotal
+"My acquaintance never wears gloves while handling chemicals and hasn't experienced any adverse effects, so gloves must be unnecessary.",Anecdotal
+"My friend never wears gloves while handling pets and hasn't been scratched, so gloves must be unnecessary.",Anecdotal
+"I've never worn gloves while gardening and haven't been injured, so gloves must be unnecessary for gardening.",Anecdotal
+"My coworker never wears a raincoat in the rain and hasn't gotten sick, so raincoats must be unnecessary.",Anecdotal
+"I know someone who invested all their money in a single stock and made a fortune, so diversification isn't important.",Anecdotal
+"My uncle never went to college and became successful, so college isn't important for success.",Anecdotal
+"My coworker never wears a helmet while biking and hasn't had head injuries, so helmets must be unnecessary for biking.",Anecdotal
+"My uncle ate fast food every day and lived a long life, so fast food isn't as unhealthy as people claim.",Anecdotal
+"I know someone who never wears a mask during flu season and hasn't gotten sick, so masks must not be effective.",Anecdotal
+"My cousin never wears a helmet while rollerblading and hasn't had head injuries, so helmets must be unnecessary for rollerblading.",Anecdotal
